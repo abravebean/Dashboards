@@ -86,9 +86,10 @@ li{
 }
 
 .graph{
-  height:200px ;
+  height:40% ;
   width:300%;
-  object-fit: fill;
+  position: relative;
+  bottom:25px;
 }
 
 .happy{
